@@ -24,6 +24,10 @@ Completed:
 	•	[] Optional: -h argument prints CLI API
 	
 GIF File (DEMO):
+The Demo (GIF) is in the location below-
+
+https://github.com/cramal1/nodejs-prework-proxy-demo/blob/master/proxyserverdemo_v2.gif
+
 
 	
 
