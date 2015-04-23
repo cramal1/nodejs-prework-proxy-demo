@@ -27,6 +27,8 @@ Completed:
 	 	[TODO] Optional: Process Forwarding
 	
 GIF File (DEMO):
+![](https://github.com/cramal1/nodejs-prework-proxy-demo/blob/master/proxyserverdemo_v2.gif)
+
 The Demo (GIF) is in the location below-
 
 https://github.com/cramal1/nodejs-prework-proxy-demo/blob/master/proxyserverdemo_v2.gif
