@@ -3,7 +3,7 @@ Node JS PreWork Demo - Proxy Server
 
 This is a Proxy Server for Node.js submitted as the pre-work requirement for CodePath.
 
-Time spent: 7 hrs
+Time spent: 5 hrs
 
 Completed:
  
